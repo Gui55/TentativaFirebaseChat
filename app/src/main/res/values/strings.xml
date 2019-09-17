@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseChat</string>
+    <string name="entrarWord">Entrar</string>
+    <string name="cadastroWord">Criar uma nova conta</string>
+</resources>
